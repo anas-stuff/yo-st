@@ -3,3 +3,4 @@
 ## Patches:
 - [scrollback](https://st.suckless.org/patches/scrollback/)
 - [ligatures](https://st.suckless.org/patches/ligatures/)
+- [anysize](https://st.suckless.org/patches/anysize/)
